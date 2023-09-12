@@ -10,7 +10,7 @@ const resources = {
   en: {
     translation: translationsInEng,
   },
-  de: {
+  hi: {
     translation: translationsInHindi,
   },
   it: {
@@ -24,7 +24,7 @@ i18n
     resources, // resources are important to load translations for the languages.
     lng: localStorage.getItem("lang"), // It acts as default language. When the site loads, content is shown in this language.
     debug: true,
-    fallbackLng: "de", // use de if selected language is not available
+    fallbackLng: "en", // use de if selected language is not available
     interpolation: {
       escapeValue: false,
     },
