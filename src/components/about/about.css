@@ -1,0 +1,26 @@
+.heading{
+    font-size: 30px;
+    font-weight: 400;
+}
+p{
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 25px;
+    color: rgb(78, 77, 76);
+}
+.image{
+    width: 100%;
+}
+img{
+    width: 100%;
+}
+@media screen and (max-width : 991px) {
+    .left{
+        order: 2;
+        text-align: center;
+    }
+    .right{
+        order: 1;
+        text-align: center;
+    }
+}

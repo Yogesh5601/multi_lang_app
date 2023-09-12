@@ -1,0 +1,21 @@
+{
+  "Logo": "Multi Lang App",
+  "Home": "Home",
+  "Slide1": "Mountains",
+  "SllideDesc1": "",
+  "Slide2": "Space",
+  "SllideDesc2": "",
+  "Slide3": "Desert",
+  "SllideDesc3": "",
+  "CardHeading": "Blogs",
+  "CardTitle": "Card Title",
+  "CardDesc": "Some quick example text to build on the card title and make up the bulk of the card's content.",
+  "About": "About",
+  "AboutSummery": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "AboutHeading": "This is multi language website",
+  "AboutBtn": "Explore more",
+  "username": {
+    "label": "username",
+    "placeholder": "placeholder..."
+  }
+}
